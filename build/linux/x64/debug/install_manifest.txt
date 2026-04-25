@@ -1,0 +1,13 @@
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/healthy_recipe_explorer
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/nick/github_repo/test/healthy_recipe_explorer/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
